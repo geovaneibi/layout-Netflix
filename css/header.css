@@ -1,0 +1,25 @@
+header{
+    padding-inline: 40px;
+    padding-top: 20px ;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+.header{
+    display: flex;
+    align-items: center;
+    gap:20px ;
+}
+
+.text-data{
+    color: #C8C8C8;
+    font-family: 'Courier New', Courier, monospace;
+}
+.barra{
+    font-size: x-large;
+}
+ 
+.logo, .perfil{
+    cursor: pointer;
+}
