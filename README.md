@@ -12,7 +12,7 @@ O objetivo é praticar **estruturação semântica de páginas** e **estilizaç�
 ---
 
 ## 🔗 Acesse o Projeto  
-👉 [Clique aqui para ver online](https://seu-usuario.github.io/layout-Netflix/)  
+👉 [Clique aqui para ver online](https://geovaneibi.github.io/layout-Netflix/)  
 
 ---
 
