@@ -6,7 +6,7 @@ O objetivo é praticar **estruturação semântica de páginas** e **estilizaç�
 ---
 
 ## 📸 Demonstração  
-![Preview do Projeto]()  
+![Preview do Projeto](img/netflix-logo-png-2562 1 (1).png)  
 
 
 ---
